@@ -1,0 +1,18 @@
+<compopack>
+   <append xpath="/rwgmixer">
+<!-- COMPOPACK -->
+<!-- DISTRICTS -->
+<!-- SETTLEMENTS -->
+<!-- OLDWEST -->
+	<streettile name="rwg_tile_oldwest_cap_xcostum_wildwest">
+        <property name="maxtiles" value="1"/>
+        <property name="mintiles" value="1"/>
+        <property name="maxdensity" value="1000"/>
+        <property name="spawn_custom_size_prefabs" value="true"/>
+        </streettile>
+	<!-- OLDWEST -->
+<!-- SETTLEMENTS -->
+<!-- DISTRICTS -->
+<!-- COMPOPACK -->
+</append>
+</compopack>

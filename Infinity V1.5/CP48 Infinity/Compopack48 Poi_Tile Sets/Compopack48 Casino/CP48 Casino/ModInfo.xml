@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="CP48 Casino" /> 
+        <Description value="Adds Casino Tile and Prefab and Parts to the game." />
+        <Author value="Compopack" />
+        <Version value="A20" />
+    </ModInfo>
+</xml>

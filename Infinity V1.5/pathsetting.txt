@@ -1,0 +1,21 @@
+C:\Program Files (x86)\Steam\SteamApps\common\7 Days To Die
+C:\Users\<yourusername>\AppData\Roaming\7DaysToDie
+
+[IMPORTANT: ONCE YOU HAVE FINISHED SELECTING YOUR POIS PLEASE GO TO YOUR C:\Program Files (x86)\Steam\SteamApps\common\7 Days To Die/DATA/PREFABS FOLDER
+AND SELECT ALL CP FOLDERS AND MOVE TO THE NEW LOCATION OF - C:\Users\<yourusername>\AppData\Roaming\7DaysToDie/LocalPrefabs folder]
+
+<!-- Important: -->
+
+<!-- very top line : -->
+<!-- Change the default 7dtd-game-adress with your personal Game-Path-adress (=your local folder that contains the 7DaysToDie.exe !!!) -->
+<!-- e.g. : C:\Program Files (x86)\Steam\SteamApps\common\7 Days To Die -->
+
+
+<!-- 2nd line : -->
+<!-- Change the default 7dtd-savegamefolder-adress with your personal 7dtd-savegamefolder-adress (=your local folder that contains the savegames and generated worlds !!!) -->
+<!-- e.g. : C:\Users\Username\AppData\Roaming\7DaysToDie -->
+
+
+<!-- Here is a tut about copy a adress(path) from the windows-adresslist-box: https://www.youtube.com/watch?v=9r2teNocXzE   -->
+<!-- Then just paste it here in this txt-file in the appropriate line !!! Overwrite the default lines !!!   -->
+

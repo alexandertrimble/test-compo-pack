@@ -1,0 +1,70 @@
+<compopack>
+   <append xpath="/rwgmixer">
+<!-- COMPOPACK -->
+<!-- TILES EXTRAS -->
+<!-- TILE EXTRAS COMMERCIAL -->
+<streettile name="rwg_tile_commercial_cap_01">
+        <property name="maxtiles" value="1"/>
+        <property name="mintiles" value="1"/>
+        <property name="maxdensity" value="1000"/>
+        <property name="spawn_custom_size_prefabs" value="true"/>
+    </streettile>
+	
+	<streettile name="rwg_tile_commercial_cap_02">
+        <property name="maxtiles" value="1"/>
+        <property name="mintiles" value="1"/>
+        <property name="maxdensity" value="1000"/>
+        <property name="spawn_custom_size_prefabs" value="true"/>
+    </streettile>
+	
+	<streettile name="rwg_tile_commercial_cap_03">
+        <property name="maxtiles" value="1"/>
+        <property name="mintiles" value="1"/>
+        <property name="maxdensity" value="1000"/>
+        <property name="spawn_custom_size_prefabs" value="true"/>
+    </streettile>
+	
+	<streettile name="rwg_tile_commercial_cap_04">
+        <property name="maxtiles" value="1"/>
+        <property name="mintiles" value="1"/>
+        <property name="maxdensity" value="1000"/>
+        <property name="spawn_custom_size_prefabs" value="true"/>
+    </streettile>
+	
+	<streettile name="rwg_tile_commercial_cap_05">
+        <property name="maxtiles" value="1"/>
+        <property name="mintiles" value="1"/>
+        <property name="maxdensity" value="1000"/>
+        <property name="spawn_custom_size_prefabs" value="true"/>
+    </streettile>
+	
+	<streettile name="rwg_tile_commercial_cap_06">
+        <property name="maxtiles" value="1"/>
+        <property name="mintiles" value="1"/>
+        <property name="maxdensity" value="1000"/>
+        <property name="spawn_custom_size_prefabs" value="true"/>
+    </streettile>
+	
+	<streettile name="rwg_tile_commercial_t_01">
+		<property name="maxtiles" value="1"/>
+		<property name="mintiles" value="1"/>
+		<property name="maxdensity" value="1000"/>
+	</streettile>
+<!-- TILE EXTRAS COMMERCIAL -->
+<!-- CP RURAL ZZTONG 01 -->
+<streettile name="rwg_tile_rural_straight_zztong_01">
+        <property name="maxtiles" value="1"/>
+        <property name="mintiles" value="1"/>
+        <property name="maxdensity" value="1000"/>
+        <property name="spawn_custom_size_prefabs" value="true"/>
+    </streettile>
+<streettile name="rwg_tile_rural_straight_zztong_02">
+        <property name="maxtiles" value="1"/>
+        <property name="mintiles" value="1"/>
+        <property name="maxdensity" value="1000"/>
+        <property name="spawn_custom_size_prefabs" value="true"/>
+    </streettile>
+<!-- TILE EXTRAS RURAL -->
+<!-- TILES EXTRAS -->
+</append>
+</compopack>

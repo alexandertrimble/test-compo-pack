@@ -1,0 +1,24 @@
+<compopack>
+<append xpath="/rwgmixer">
+<!-- FABBERSVILLE POI/TILE Sets -->	
+<!-- STRAIGHT -->
+	<streettile name="rwg_tile_fv_intersection_02">
+        <property name="maxtiles" value="1"/>
+        <property name="mintiles" value="1"/>
+        <property name="maxdensity" value="1000"/>
+        <property name="spawn_custom_size_prefabs" value="true"/>
+    </streettile>
+	
+	<streettile name="rwg_tile_fab_cap_shopcenter">
+		<property name="maxtiles" value="1"/>
+		<property name="mintiles" value="1"/>
+		<property name="maxdensity" value="120"/>
+	</streettile>
+<!-- STRAIGHT -->
+	<!-- FABBERSVILLE  POI/TILE Sets -->	
+	<!-- FABBERSVILLE  -->
+<!-- SETTLEMENTS -->
+<!-- DISTRICTS -->
+<!-- COMPOPACK -->
+</append>
+</compopack>

@@ -1,0 +1,16 @@
+<compopack>
+    <append xpath="/rwgmixer">
+<!--  SHOPPING_CENTER WARSAKEN -->
+<!-- COMPOPACK -->
+<!-- DISTRICTS -->
+<!-- POI/TILE SET -->
+	<streettile name="rwg_tile_commercial_intersection_scenter">
+		<property name="maxtiles" value="1"/>
+		<property name="mintiles" value="1"/>
+		<property name="maxdensity" value="120"/>
+	</streettile>
+<!-- POI/TILE SET -->
+<!-- DISTRICTS -->
+<!-- COMPOPACK -->
+</append>
+</compopack>

@@ -1,0 +1,17 @@
+<compopack>
+    <append xpath="/rwgmixer">
+<!-- COUNTRYTOWN CAP SHOPPINGCENTER -->
+<!-- COMPOPACK -->
+<!-- DISTRICTS -->
+<!-- POI/TILE SET -->
+<streettile name="rwg_tile_countrytown_cap_shopcenter">
+		<property name="maxtiles" value="1"/>
+		<property name="mintiles" value="1"/>
+		<property name="maxdensity" value="1000"/>
+		<property name="spawn_custom_size_prefabs" value="true"/>
+		</streettile>	
+<!-- POI/TILE SET -->
+<!-- DISTRICTS -->
+<!-- COMPOPACK -->
+</append>
+</compopack>
